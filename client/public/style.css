@@ -1,0 +1,15 @@
+h1{
+background-color: red;
+text-align: center;
+}
+
+main{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 45%;
+  margin: 10px;
+
+}
